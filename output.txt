@@ -1,0 +1,8 @@
+PS D:\whitehatclasses\AI\class101> py transfer.py
+Enter the file path to transfer : -commands.txt
+enter the full path to upload to dropbox:- /san1--2/commands.txt
+file has been moved !!!
+PS D:\whitehatclasses\AI\class101> py transfer.py
+Enter the file path to transfer : -commands.txt
+enter the full path to upload to dropbox:- /first/commands.txt
+file has been moved !!!
